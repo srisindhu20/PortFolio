@@ -103,11 +103,11 @@ body {
 .home-content h1 {
     color: white;
     font-size: 50px;
-    font-weight: 700;
+    font-weight: 600;
 }
 .home-content h2 span {
-    font-size: 52px;
-    font-weight: 700;
+    font-size: 48px;
+    font-weight: 550;
     color: #0ef;
     margin: -3px 0;
     opacity: 0;
